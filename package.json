@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "Rich-text",
+  "version": "14.1.2-beta.1",
   "workspaces": [
     "packages/*"
   ],
